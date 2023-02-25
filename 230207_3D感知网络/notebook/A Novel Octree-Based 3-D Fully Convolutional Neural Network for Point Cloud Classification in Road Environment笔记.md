@@ -26,3 +26,5 @@ We define the weighted cross-entropy loss function in the following:
 
 ![image-20230216000047953](C:\Users\Liu Dunhui\AppData\Roaming\Typora\typora-user-images\image-20230216000047953.png)
 
+
+
